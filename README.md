@@ -8,7 +8,7 @@
 - **Section:** C
 
   ##Title of 10 Programss
-  -**1.**Progressive Electricity Billing
+  1.Progressive Electricity Billing
   2.Employee Payroll and Deduction Analysis
   3.Examination Result and Grace-Mark Validation
   4.Food Waste Monitoring System
